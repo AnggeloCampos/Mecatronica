@@ -37,9 +37,14 @@ Adicionalemente se usaron:
 ***
 El código utilizado para este proyecto se puede explicar con este diagrama de bloques y está en el siguiente link: https://www.tinkercad.com/things/aDlj6GpDl97-copy-of-mark1/editel?sharecode=_FWJbAmf6Wa0LkCvpjeaME3pebGLkdsknWCFB25P7-U
 
+[Circuit design Copy of Mark1 _ Tinkercad (1)](https://user-images.githubusercontent.com/131203206/236716248-559c002d-a1d3-4872-ac35-5efb154e06c3.png)
+
+
+
 
 
 ## Ensamble final
+
 
 
 
