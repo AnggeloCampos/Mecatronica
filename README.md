@@ -38,6 +38,8 @@ En las componentes electricas se usaron:
 
 Para el mecanismo se usó uno tipo cremallera, cuyo engranaje se instaló en los servomotores. A este se le añadieron palos que se impremieron y vienen adjuntos.
 
+El mecanismo utilizado se puede encontrar en este link:  (https://www.thingiverse.com/thing:3170748)
+
 Adicionalemente se usaron:
 
 -6 Tornillos de 3 (mm) junto sus golillas y tuercas.
@@ -53,6 +55,7 @@ El código utilizado para este proyecto se puede explicar con este diagrama de b
 
 
 
+![diagram drawio](https://user-images.githubusercontent.com/131203206/236719210-864487bf-d866-40fd-904d-856f804316d4.png)
 
 
 ## Ensamble final
