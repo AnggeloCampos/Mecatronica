@@ -15,6 +15,11 @@ Se adjuntan archivos de impresión.
 ***
 Para este proyecto se diseñaron piezas con el proposito de crear el fondo de los ojos, lo suficientemente gruesas para que una vez en posicion den la impresión de se cerró el ojo, manteniendo la forma de este. 
 
+![16 sin título_20230507202323](https://user-images.githubusercontent.com/131203206/236717630-7d8efe09-a557-436c-a5c3-7e5029358b8f.png)
+![16 sin título_20230507202408](https://user-images.githubusercontent.com/131203206/236717642-4a8ba02e-89a5-45bd-b415-8b46d9b7d55c.png)
+
+
+
 Tambien se usarón piezas extras para poner por fuera de la mascara propias del ojo.
 
 ![palochicov2 v2](https://user-images.githubusercontent.com/131203206/236716347-1da8d505-d097-4e18-af1e-b926cf49b4cd.png)
@@ -60,6 +65,6 @@ El código utilizado para este proyecto se puede explicar con este diagrama de b
 
 El diseño presentado está basado en el video de [Alexey Odarchuk](https://www.youtube.com/watch?v=x0mqmfc5ey8&t=3406s&ab_channel=AlexeyOdarchuk)
 
-El mecanismo usado está basado en el creado por [] ()
+El mecanismo usado está basado en el creado por [potentprintables] (https://www.thingiverse.com/thing:3170748)
 
 Los lentes usados están basados en el diseño creado por [Unknown] (https://3dmag.org/en/market/item/9667/)
