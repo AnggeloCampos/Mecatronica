@@ -17,6 +17,11 @@ Para este proyecto se diseñaron piezas con el proposito de crear el fondo de lo
 
 Tambien se usarón piezas extras para poner por fuera de la mascara propias del ojo.
 
+![palochicov2 v2](https://user-images.githubusercontent.com/131203206/236716347-1da8d505-d097-4e18-af1e-b926cf49b4cd.png)
+![palito](https://user-images.githubusercontent.com/131203206/236716349-07415c6a-847d-4f2d-a9d1-8a0bca98ffba.png)
+![ojos](https://user-images.githubusercontent.com/131203206/236716353-d2a54b7f-6b1d-451b-8cc1-3b8081b552d9.png)
+
+
 En las componentes electricas se usaron:
 
 -Dos servomotores.
@@ -33,11 +38,13 @@ Adicionalemente se usaron:
 -6 Tornillos de 3 (mm) junto sus golillas y tuercas.
 
 
+
+
 # 3.Código
 ***
 El código utilizado para este proyecto se puede explicar con este diagrama de bloques y está en el siguiente link: https://www.tinkercad.com/things/aDlj6GpDl97-copy-of-mark1/editel?sharecode=_FWJbAmf6Wa0LkCvpjeaME3pebGLkdsknWCFB25P7-U
 
-[Circuit design Copy of Mark1 _ Tinkercad (1)](https://user-images.githubusercontent.com/131203206/236716248-559c002d-a1d3-4872-ac35-5efb154e06c3.png)
+![Circuit design Copy of Mark1 _ Tinkercad (1)](https://user-images.githubusercontent.com/131203206/236716248-559c002d-a1d3-4872-ac35-5efb154e06c3.png)
 
 
 
@@ -46,6 +53,7 @@ El código utilizado para este proyecto se puede explicar con este diagrama de b
 ## Ensamble final
 
 
+![whatsapp-video-2023-05-08-at-021752_ZtwTKXTh (2) (1) (1)-min](https://user-images.githubusercontent.com/131203206/236716929-dae392aa-31bf-4fa9-a97e-bcdeed8562af.gif)
 
 
 # 6.Bibliografía
